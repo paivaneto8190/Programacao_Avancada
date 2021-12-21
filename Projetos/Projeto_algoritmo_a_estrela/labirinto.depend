@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1627326204 source:c:\users\paiva neto\desktop\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1627326236 c:\users\paiva neto\desktop\labirinto\coord.h
+	<iostream>
+
+1628187033 source:c:\users\paiva neto\desktop\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1638316162 c:\users\paiva neto\desktop\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+	"NoH.h"
+	<cmath>
+
+1639073868 c:\users\paiva neto\desktop\labirinto\noh.h
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"coord.h"
+
+1639072865 source:c:\users\paiva neto\desktop\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<vector>
+	<cmath>
+	"NoH.h"
+	"acha_maior.h"
+	"labirinto.h"
+	"coord.h"
+
+1639012272 c:\users\paiva neto\desktop\labirinto\acha_maior.h
+	"NoH.h"
+
+1627326204 source:c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\coord.cpp
+	<cmath>
+	"coord.h"
+
+1627326236 c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\coord.h
+	<iostream>
+
+1639073953 source:c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<vector>
+	<cmath>
+	"NoH.h"
+	"acha_maior.h"
+	"labirinto.h"
+	"coord.h"
+
+1639073868 c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\noh.h
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	<cmath>
+	"coord.h"
+
+1639012272 c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\acha_maior.h
+	"NoH.h"
+
+1638316162 c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\labirinto.h
+	<vector>
+	"coord.h"
+	"NoH.h"
+	<cmath>
+
+1628187033 source:c:\users\paiva neto\desktop\projeto_algoritmo_a_estrela\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
