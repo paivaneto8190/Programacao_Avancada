@@ -1,4 +1,4 @@
-## Algoritmo A*
+## Implementação e execução do algoritmo A*
 
 Este projeto tem como finalidade implementar um algoritmo que busca a saída com o menor custo dentro de um labirinto imposto pelo usuário, sendo possível  ler um arquivo com o labirinto ou gerar um aleatório.
 
