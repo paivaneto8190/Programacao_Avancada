@@ -10,5 +10,5 @@ O arquivo de teste contém um labirinto para verificar a funcionabilidade do pro
 
 Para comparação, abaixo tem 2 fotos em que a uma representa a interface logo ao abrir o programa e outra a interface após resolver o labirinto com as informações da execução, respectivamente.
 
-![foto1](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/inicio_programa.png).
-![foto2](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/labirinto_resolvido.png).
+![foto1](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/inicio_programa.png)
+![foto2](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/labirinto_resolvido.png)
