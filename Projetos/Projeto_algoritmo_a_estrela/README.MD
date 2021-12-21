@@ -7,3 +7,8 @@ Para isso, o professor passou um arquivo com um pseudocódigo com um código a s
 Já os arquivos .cpp foram usados para executar o arquivo sendo o principal deles o "labirinto_main.cpp", que no fim foi compilado com os outros arquivos em um projeto e foi gerado um executável encontrado na pasta.
 
 O arquivo de teste contém um labirinto para verificar a funcionabilidade do programa, embora o usuário posso criar o seu próprio.
+
+Para comparação, abaixo tem 2 fotos em que a uma representa a interface logo ao abrir o programa e outra a interface após resolver o labirinto com as informações da execução, respectivamente.
+
+![foto1](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/inicio_programa.png).
+![foto2](https://github.com/paivaneto8190/Programacao_Avancada/blob/master/Projetos/Projeto_algoritmo_a_estrela/labirinto_resolvido.png).
